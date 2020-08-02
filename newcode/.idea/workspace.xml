@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c260d773-89c3-455b-aa98-f356a63abe12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../leetCode/src/qianxin/first/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/juc/aqs/AQSDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/map/demo/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/map/demo/HashtableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/singleton/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/singleton/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/huawei1/first/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kuaishou/_2018/bigMulti/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kuaishou/_2018/maxMulti/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poj/Main_1664.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/qianxin2020c/first/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/META-INF/Basic.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Soluton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Soluton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1137/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1137/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/tencent50/reverse_words_557/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/tencent50/reverse_words_557/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/Jump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/letterCombinationsOfAPhoneNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/letterCombinationsOfAPhoneNumber/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/pingduoduo/tiqian/_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/pingduoduo/tiqian/_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,26 +44,13 @@
       <recent name="coding.singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qianxin2020c.first.Main" />
+      <option name="MAIN_CLASS_NAME" value="interview.pingduoduo.tiqian._2.Main" />
       <module name="newcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qianxin2020c.first.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="huawei1.first.Main" />
-      <module name="newcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="huawei1.first.*" />
+          <option name="PATTERN" value="interview.pingduoduo.tiqian._2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.pingduoduo.tiqian._1.Main" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.pingduoduo.tiqian._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main_1664" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poj.Main_1664" />
       <module name="newcode" />
@@ -147,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main_1664" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +153,7 @@
       <workItem from="1595827394748" duration="3077000" />
       <workItem from="1596018338390" duration="3064000" />
       <workItem from="1596106701332" duration="7057000" />
-      <workItem from="1596347640449" duration="5796000" />
+      <workItem from="1596347640449" duration="11890000" />
     </task>
     <servers />
   </component>
@@ -200,22 +165,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595854487538" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1596352734090">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1596370593830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1596352734090">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596370593830" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1596370593830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1596352734090">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596370593830" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1596370593830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1596352734090">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596370593830" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1596370593830">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596370593830" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592407867230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
