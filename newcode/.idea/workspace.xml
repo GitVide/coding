@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c260d773-89c3-455b-aa98-f356a63abe12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../leetCode/src/qianxin/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/juc/aqs/AQSDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/map/demo/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/map/demo/HashtableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/singleton/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/singleton/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei1/first/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interview/bytedace/wanzhuan/_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/_2018/bigMulti/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kuaishou/_2018/maxMulti/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poj/Main_1664.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qianxin2020c/first/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/META-INF/Basic.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/medium/_2831/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1108/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_112/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Soluton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Soluton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1128/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1137/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_1137/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/simple/_509/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/tencent50/reverse_words_557/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/tencent50/reverse_words_557/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/Jump.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/Jump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/letterCombinationsOfAPhoneNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetCode/out/production/Basic/top100/letterCombinationsOfAPhoneNumber/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dJA6jlpINT45idemvpfcYDe10K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574765867148" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="coding.singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qianxin2020c.first.Main" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qianxin2020c.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei1.first.Main" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei1.first.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.bytedace.wanzhuan._1.Main" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.bytedace.wanzhuan._1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.bytedace.wanzhuan._2.Main" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.bytedace.wanzhuan._2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_1664" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poj.Main_1664" />
+      <module name="newcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main_1664" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c260d773-89c3-455b-aa98-f356a63abe12" name="Default Changelist" comment="" />
+      <created>1574765812673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574765812673</updated>
+      <workItem from="1574765816188" duration="138000" />
+      <workItem from="1592132655178" duration="2588000" />
+      <workItem from="1592391465005" duration="3148000" />
+      <workItem from="1594388650449" duration="614000" />
+      <workItem from="1594713940317" duration="1976000" />
+      <workItem from="1595156118235" duration="2202000" />
+      <workItem from="1595226566476" duration="3725000" />
+      <workItem from="1595484824926" duration="2001000" />
+      <workItem from="1595827394748" duration="3077000" />
+      <workItem from="1596018338390" duration="3064000" />
+      <workItem from="1596106701332" duration="7057000" />
+      <workItem from="1596347640449" duration="5796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595854487538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595854487538" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1596352734090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1596352734090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1596352734090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1596352734090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596352734090" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592407867230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592407867230" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592407867229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592407867229" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592407867229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592407867229" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592407867230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592407867230" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596347850390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596347850390" />
+    <state x="178" y="114" key="new project wizard" timestamp="1595854560612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595854560612" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1592133863143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592133863143" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595228450142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595228450142" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/qianxin2020c/first/Main.java</url>
+          <line>15</line>
+          <properties field="memo" class="qianxin2020c.first.Main" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>newcode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
