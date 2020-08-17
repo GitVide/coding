@@ -32,4 +32,5 @@ public class TouSchool {
         sum += 3 - group;
         return sum;
     }
+
 }

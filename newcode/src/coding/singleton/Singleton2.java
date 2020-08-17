@@ -1,5 +1,8 @@
 package coding.singleton;
 
+/**
+ * 饿汉式，双重校验锁，线程安全
+ */
 public class Singleton2 {
     private volatile static Singleton2 singleton2 = null;
     private Singleton2(){}

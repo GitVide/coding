@@ -1,5 +1,8 @@
 package coding.singleton;
 
+/**
+ * 懒汉式，线程不安全
+ */
 public class Singleton1 {
     private static Singleton1 singleton1 = null;
     private Singleton1(){}
